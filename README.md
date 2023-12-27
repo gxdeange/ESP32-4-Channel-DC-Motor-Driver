@@ -1,4 +1,4 @@
-# ESP32 4-Channel Motor Driver @5V
+# ESP32 4-Channel Brushed DC Motor Driver @5V
 
 ESP32 (38 Pin Module) based 4 channel Brushed DC Motor board.
 
