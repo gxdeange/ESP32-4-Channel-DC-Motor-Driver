@@ -1,6 +1,6 @@
-# ESP32 4-Channel Brushed DC Motor Driver @5V
+# ESP32 4-Channel DC Motor Driver @5V
 
-ESP32 (38 Pin Module) based 4 channel Brushed DC Motor board.
+ESP32 (38 Pin Module) based 4 channel DC Motor board.
 
 Has solder pads for 8 GPIO's or you can use a standard Dupont header (typically right angle)
 
