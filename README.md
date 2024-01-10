@@ -1,4 +1,4 @@
-# ESP32 4-Channel DC Motor Driver @5V
+# ESP32 4-Channel DC Motor Driver @5V Max
 
 ESP32 (38 Pin Module) based 4 channel DC Motor board.
 
@@ -9,3 +9,15 @@ Motor Driver / MCU Mapping:
 ![image](https://github.com/gxdeange/ESP32-4-Channel-Brushed-DC-Motor-Driver-5V/assets/57690555/ba5665c3-214a-4173-98e1-4dfe15fb34ad)
 
 <img width="385" alt="ESP32 Motor Driver Board" src="https://github.com/gxdeange/ESP32-4-Channel-Motor-Driver-5V/assets/57690555/f7f6595f-b5c2-4e83-9c71-c73d7e65c02a">
+
+# ESP32 4-Channel DC Motor Driver @18V Max
+
+* Max input Voltage - 18V
+* **4 GPIO's pulled high via 10K Resistor**
+* GPIO27
+* GPIO14
+* GPIO16
+* GPIO4
+
+<img width="389" alt="ESP32 4 Channel DC Motor Driver 18V Max" src="https://github.com/gxdeange/ESP32-4-Channel-DC-Motor-Driver/assets/57690555/2d02dac0-919e-4110-9ba0-0e2a45ce8ab7">
+
