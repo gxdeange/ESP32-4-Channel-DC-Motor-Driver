@@ -18,7 +18,7 @@ Motor Driver / MCU Mapping:
 * **4 GPIO's pulled high via 10K Resistor**
 * GPIO27
 * GPIO14
-* GPIO16
 * GPIO4
+* GPIO16
 
 <img width="392" alt="ESP32 4 Channel DC Motor Driver 18V Max" src="https://github.com/gxdeange/ESP32-4-Channel-DC-Motor-Driver/assets/57690555/4b295ea1-6b8e-46fe-bfc4-b6c1773bc29a">
